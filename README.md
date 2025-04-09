@@ -2,7 +2,7 @@
 
 My name is José J. Peleato Pradel. I am a Full-stack Developer with 10+ years of experience in developing websites and applications.
 
-I like teams that solve difficult and interesting problems. I prefer to work on programming. I like developing in back-end and front-end, I feel comfortable in both environments. My main skills are PHP and JS.
+I enjoy being part of teams that tackle difficult and interesting problems. I prefer working in programming, and I feel comfortable developing both on the back end and the front end. My main skills are PHP and JavaScript.
 
 In my professional career, I focus on writing clean, scalable and maintainable code. I'm a perfectionist, always striving to prevent potential bugs and deliver highly optimized, fast-performing solutions.
 
